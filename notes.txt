@@ -10,7 +10,10 @@ What will this website do?
 
 What should I know?
 <!--
-
+HTML Fundamentals
+CSS Fundamentals
+Flexbox 
+Javascript Fundamentals 
 -->
 
 
